@@ -27,7 +27,9 @@ python3 crtsh_explorer.py <domain> <output_dir>
 Replace **<domain_name>** with the target domain you want to explore and **<output_dir>** with the desired output directory.
 
 ## Output
-The script will generate or append to a file named **<domain>**.txt in the specified output directory, containing the extracted information.
+
+The script will generate or append to a file named **<domain_name>**.txt in the specified output directory, containing the extracted information.
 
 ## Contributing
+
 Feel free to contribute by opening issues or submitting pull requests. Your feedback and contributions are welcome!
