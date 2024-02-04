@@ -16,12 +16,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/CrtShExplorer.git
 cd CrtShExplorer
+sudo mv ./CrtRecon /usr/bin
 ```
 
 ## Usage
 
 ```bash
-python3 crtsh_explorer.py <domain> <output_dir>
+CrtRecon <domain> <output_dir>
 ```
 
 Replace **<domain_name>** with the target domain you want to explore and **<output_dir>** with the desired output directory.
