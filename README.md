@@ -1,6 +1,6 @@
 # CrtRecon
 
-CrtShExplorer is a Python script for exploring and extracting information from the Certificate Transparency logs provided by crt.sh.
+CrtShExplorer is a Python script for exploring and extracting information from the Certificate Transparency logs provided by `crt.sh` specifically the alternative names inside the certifications.
 
 ## Prerequisites
 
