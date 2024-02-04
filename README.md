@@ -18,7 +18,7 @@ git clone https://github.com/MohamedWagdy7/CrtRecon.git;
 cd CrtRecon;
 chmod +x ./CrtRecon;
 sudo mv ./CrtRecon /usr/bin;
-cd .. && rm -r ./CrtRecon;
+cd .. && sudo  rm -r ./CrtRecon;
 ```
 
 ## Usage

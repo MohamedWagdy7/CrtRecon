@@ -19,7 +19,7 @@ def extractSubs(content):
     return filteredResponse
 
 if len(argv) < 3:
-    print(colored("USAGE: crt <domain> <output_dir>","red"))
+    print(colored("USAGE: CrtRecon <domain> <output_dir>","red"))
     exit()
     
 if __name__ == '__main__':
