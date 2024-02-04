@@ -14,9 +14,10 @@ CrtRecon is a Python script for exploring and extracting information from the Ce
 Clone the repository:
 
 ```bash
-git clone https://github.com/MohamedWagdy7/CrtRecon.git
-cd CrtShExplorer
-sudo mv ./CrtRecon /usr/bin
+git clone https://github.com/MohamedWagdy7/CrtRecon.git;
+cd CrtRecon;
+chmod +x ./CrtRecon;
+sudo mv ./CrtRecon /usr/bin;
 ```
 
 ## Usage
