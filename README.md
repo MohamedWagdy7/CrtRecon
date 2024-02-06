@@ -16,7 +16,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/MohamedWagdy7/CrtRecon.git;
 cd CrtRecon;
-pip install -r requirments.txt
+pip install -r requirments.txt;
 chmod +x ./CrtRecon;
 sudo mv ./CrtRecon /usr/bin;
 cd .. && sudo  rm -r ./CrtRecon;

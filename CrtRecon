@@ -40,6 +40,4 @@ if __name__ == '__main__':
         for alter in extractAlters(content2,word):
             if alter[0]!=None and alter[0]=="\n" and alter[0]=="":
                 f.write(alter[0]+"\n")
-        
-        
-                
+                        
